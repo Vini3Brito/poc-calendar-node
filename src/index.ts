@@ -1,3 +1,3 @@
-export * from './application'
-export * from './core'
-export * from './infrastructure'
+export * from './config'
+export * from './domain'
+export * from './services'
